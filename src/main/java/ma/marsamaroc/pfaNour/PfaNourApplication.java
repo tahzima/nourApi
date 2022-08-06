@@ -1,13 +1,11 @@
-package com.projetPfa;
+package ma.marsamaroc.pfaNour;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 @SpringBootApplication
-public class ProjetPfaApplication {
+public class PfaNourApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetPfaApplication.class, args);
+		SpringApplication.run(PfaNourApplication.class, args);
 	}
-
 }
